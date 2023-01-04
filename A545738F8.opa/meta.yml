@@ -1,0 +1,34 @@
+id: A545738F8
+title: Prayer for the Fulfilment of Aspirations
+type: translation
+pechas:
+- IE4D612C9
+- IAA5B0F1D
+- I4C935221
+- I8CF74704
+- I5D030451
+- I11F5551E
+- I4A433A64
+source_metadata:
+  languages:
+  - en
+  - de
+  - es
+  - fr
+  - it
+  - nl
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:38:18.532121
+  last_modified_at: 2023-01-04 11:38:18.532148
+  collections:
+  - Dilgo Khyentse Rinpoche Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IE4D612C9/F5A2: B89A
+  IAA5B0F1D/9CC7: B89A
+  I4C935221/8A8A: B89A
+  I8CF74704/E888: B89A
+  I5D030451/2B5D: B89A
+  I11F5551E/A2FF: B89A
+  I4A433A64/FE93: B89A
